@@ -1,6 +1,6 @@
-#### Hi there👋 I'm Abinesh Thaventhirarajah....! 
-  - Undergraduate | Computer Science and Engineering University of Moratuwa | Specializing in Data Science 📊
-<!-- <div align = 'right'>![](https://komarev.com/ghpvc/?username=abinesht&color=yellow)</div> -->
+#### Hi there👋 I'm Gopinath Shanmugavadivel....! 
+  - Undergraduate | Computer Science and Engineering University of Moratuwa  📊
+<!-- <div align = 'right'>![](https://komarev.com/ghpvc/?username=shangopi&color=yellow)</div> -->
 
 ### Technologies:
 <img align="left" alt="html" width="50px" height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,8 +24,6 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=abinesht" />
+<img src="https://github-readme-stats.vercel.app/api?username=shangopi" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinesht" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinesht" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangopi" />
