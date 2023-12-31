@@ -1,8 +1,5 @@
 #### Hi there👋 I'm Gopinath Shanmugavadivel....! 
   - Undergraduate | Computer Science and Engineering University of Moratuwa  📊
-  - I have completed my internship with Direct FN
-  - I’m interested in the Software Engineering field.
-  - I’m looking to collaborate on Software Engineering projects.
 
 ### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
 <div id="badges">
