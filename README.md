@@ -1,5 +1,6 @@
 #### Hi there👋 I'm Gopinath Shanmugavadivel....! 
   - Undergraduate | Computer Science and Engineering University of Moratuwa  📊
+  - I have completed my internship with Direct FN
   - I’m interested in the Software Engineering field.
   - I’m looking to collaborate on Software Engineering projects.
 ### Technologies:
@@ -16,11 +17,8 @@
 <img align="left" alt="react" width="50px" height="20px"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="express" width="50px" height="20px"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-<br/>
-<br/>
 
-
-<br />
+### 🔥 My Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=shangopi" />
 
