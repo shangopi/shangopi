@@ -4,6 +4,7 @@
   - I’m interested in the Software Engineering field.
   - I’m looking to collaborate on Software Engineering projects.
 ### Technologies:
+<div>
 <img align="left" alt="node" width="50px" height="20px"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="left" alt="java" width="50px" height="20px"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="spring" width="50px" height="20px"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -16,7 +17,7 @@
 <img align="left" alt="jquery" width="50px" height="20px"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" alt="react" width="50px" height="20px"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="express" width="50px" height="20px"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-
+</div>
 
 ### 🔥 My Stats :
 
