@@ -60,3 +60,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangopi" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shangopi" />
+
+
+
+### 🔥 My Stats :
+
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shangopi&theme=light&background=ffffff)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangopi&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|
+|------|----|
+|![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kajanan1212&theme=buefy&show_icons=true)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=kajanan1212&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
+
+
