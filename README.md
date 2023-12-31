@@ -2,7 +2,6 @@
   - Undergraduate | Computer Science and Engineering University of Moratuwa  📊
   - I’m interested in the Software Engineering field.
   - I’m looking to collaborate on Software Engineering projects.
-<img src="https://komarev.com/ghpvc/?username=shangopi&style=flat-square&color=blue" alt="views" width="200px"/>
 ### Technologies:
 <img align="left" alt="html" width="50px" height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="js" width="50px" height="20px"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
